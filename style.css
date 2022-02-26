@@ -1,0 +1,23 @@
+button{
+    min-width: 100px;
+    min-height: 70px;
+    font-size: large;
+    margin: 5px;
+    cursor: pointer;
+}
+body, body *{
+    background-color: black;
+    color: white;
+}
+#tex{
+    display: none;
+}
+#canv{
+    float: left;
+}
+#menu{
+    float: left;
+}
+#txt{
+    clear: both;
+}
